@@ -1,4 +1,5 @@
 Zmiana w pliku:wq
 :wduuuupaa
 Dodaję trzeci
-checkout
+checkou
+cofanie stanu plikyt
