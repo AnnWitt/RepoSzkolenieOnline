@@ -1,7 +1,4 @@
 Zmiana w pliku:wq
 :wduuuupaa
-Dodaję trzeci wiersz bez podpowied---
-
-
-------------do cofniecia
-ziaaq
+Dodaję trzeci
+checkout
