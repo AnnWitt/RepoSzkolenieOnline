@@ -3,3 +3,5 @@ Zmiana w pliku:wq
 Dodaję trzeci
 checkou
 cofanie stanu plikyt
+Dodaję ciekawy wpis:wq{::::wq
+
