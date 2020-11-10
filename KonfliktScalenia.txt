@@ -1,1 +1,2 @@
-Plik i wpis utworzony na branchu master
+Plik ktory powstal z merga testig do mastera:wq
+:wq
