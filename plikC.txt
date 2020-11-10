@@ -1,0 +1,1 @@
+iDodanie funkckjonalnosci C na testing
